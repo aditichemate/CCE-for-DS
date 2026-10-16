@@ -1,8 +1,0 @@
-Enter number of values: 5
-Enter 5 integer values:
-10 20 30 40 50
-
-BST Inorder Traversal: 10 20 30 40 50
-AVL Inorder Traversal: 10 20 30 40 50
-BST Height: 5
-AVL Height: 3
